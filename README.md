@@ -24,6 +24,10 @@ https://cdn.jsdelivr.net/gh/username/repository@version/path/to/file
 <script src="https://cdn.jsdelivr.net/gh/myusername/my-library@v1.0.0/dist/my-library.min.js"></script>
 ```
 
+## Live PROJECT! { MUTEX }
+
+You can view the live demo or documentation of the library [here](https://kunalatmosoft.github.io/mutex/).
+
 ### tutorial for Usage
 ```html 
 <!DOCTYPE html>
