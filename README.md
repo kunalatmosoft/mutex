@@ -1,14 +1,18 @@
+## Important dependencies!
+
 ```bash
 npm install webpack webpack-cli --save-dev
-
 ```
 ```bash
-npx webpack```
+npx webpack
+```
 
+### Tagging through CLI
 ```bash
 git tag v1.0.0-alpha
-git push origin v1.0.0-alpha```
-
+git push origin v1.0.0-alpha
+```
+### tags prototype
 ```html
 https://cdn.jsdelivr.net/gh/username/repository@version/path/to/file
 
@@ -19,10 +23,8 @@ https://cdn.jsdelivr.net/gh/username/repository@version/path/to/file
 
 <script src="https://cdn.jsdelivr.net/gh/myusername/my-library@v1.0.0/dist/my-library.min.js"></script>
 ```
-```bash
-git tag v1.0.0-alpha
-git push origin v1.0.0-alpha```
 
+### tutorial for Usage
 ```html 
 <!DOCTYPE html>
 <html lang="en">
